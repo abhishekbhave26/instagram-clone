@@ -2,7 +2,7 @@
 
 Full Stack Instagram Clone Application using React, Firebase and Chakra UI. This application enables users to create posts, see followers post and like and comment on pictures.
 
-Built With React, Firebase && Chakra UI
+Built With React, Firebase and Chakra UI
 
 ![Screenshot 2024-01-28 194755](https://github.com/abhishekbhave26/instagram-clone/assets/26895533/42307bd6-644a-4423-86eb-1de9d073d36e)
 
