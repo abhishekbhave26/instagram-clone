@@ -2,6 +2,10 @@
 
 The Options Trade Calculator and Logging Tool is a MERN stack application that enables users to manage and analyze options trades. It provides a user-friendly interface for recording trades, calculates returns, and offers a comprehensive log for tracking and analyzing historical option transactions.
 
+Built With React, Firebase && Chakra UI
+
+![Screenshot 2024-01-28 194755](https://github.com/abhishekbhave26/instagram-clone/assets/26895533/42307bd6-644a-4423-86eb-1de9d073d36e)
+
 ## Description
 
 The Options Trade Calculator and Logging Tool is a full-stack application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides an intuitive interface for users to manage and analyze their options trades. The tool calculates returns, maintains a comprehensive log of historical option transactions, and offers features for in-depth trade analysis.
@@ -36,12 +40,15 @@ Inspired by https://github.com/burakorkmez/instagram-clone
 
 ## Environment Variables
 
-The application uses environment variables for configuration. Create a `.env.dev` file in the `backend` directory with the following variables:
+The application uses environment variables for configuration. Create a `.env` file with the following variables:
 
-
-NODE_ENV=dev<br>
-PORT=3000<br>
-ATLAS_URI=your_conn_string<br>
+VITE_FIREBASE_API_KEY=your_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 
 
 ## Dependencies & DevDependencies
