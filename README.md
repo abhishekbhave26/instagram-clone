@@ -1,6 +1,6 @@
 # instagram-clone
 
-The Options Trade Calculator and Logging Tool is a MERN stack application that enables users to manage and analyze options trades. It provides a user-friendly interface for recording trades, calculates returns, and offers a comprehensive log for tracking and analyzing historical option transactions.
+Full Stack Instagram Clone Application using React, Firebase and Chakra UI. This application enables users to create posts, see followers post and like and comment on pictures.
 
 Built With React, Firebase && Chakra UI
 
@@ -14,7 +14,8 @@ Built With React, Firebase && Chakra UI
 
 ## Description
 
-The Options Trade Calculator and Logging Tool is a full-stack application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides an intuitive interface for users to manage and analyze their options trades. The tool calculates returns, maintains a comprehensive log of historical option transactions, and offers features for in-depth trade analysis.
+Full Stack Instagram Clone Application using React, Firebase and Chakra UI. This application enables users to create posts, see followers post and like and comment on pictures.
+
 Inspired by https://github.com/burakorkmez/instagram-clone
 
 
