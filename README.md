@@ -6,6 +6,12 @@ Built With React, Firebase && Chakra UI
 
 ![Screenshot 2024-01-28 194755](https://github.com/abhishekbhave26/instagram-clone/assets/26895533/42307bd6-644a-4423-86eb-1de9d073d36e)
 
+![Screenshot 2024-01-28 194650](https://github.com/abhishekbhave26/instagram-clone/assets/26895533/aa7185f3-e152-4a79-8e00-7b5024b10e43)
+
+![Screenshot 2024-01-28 194731](https://github.com/abhishekbhave26/instagram-clone/assets/26895533/8a069249-e202-408b-ab1a-279a4e3fa9af)
+
+
+
 ## Description
 
 The Options Trade Calculator and Logging Tool is a full-stack application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides an intuitive interface for users to manage and analyze their options trades. The tool calculates returns, maintains a comprehensive log of historical option transactions, and offers features for in-depth trade analysis.
